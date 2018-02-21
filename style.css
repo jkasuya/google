@@ -1,0 +1,22 @@
+.ui.borderless.topmenu.menu{
+  border: none;
+  border-bottom:0px;
+
+}
+.middle.container {
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+.inputbar {
+  padding-bottom: 20px;
+}
+
+.buttoning.button{
+  background-color: #f8f8f8;
+  margin-bottom: 485px;
+}
+
+.bottommenu.menu {
+  background-color: #f2f2f2
+}
